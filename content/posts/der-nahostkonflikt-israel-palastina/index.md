@@ -1,7 +1,7 @@
 +++
 title = "Der Nahostkonflikt Israel – Palästina"
 date = "2024-06-04"
-draft = true
+draft = false
 pinned = true
 tags = ["Deutsch", "Reportage", "Nahostkonflikt", "Israel", "Palästina"]
 image = "https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM"
