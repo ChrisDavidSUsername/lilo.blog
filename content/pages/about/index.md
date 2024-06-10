@@ -1,7 +1,7 @@
 +++
-title = "About me"
+title = "Über mich"
 draft = false
 image = "_dsc5792.jpg"
-description = "Schüler der M26f"
+description = "Schüler der M26f."
 +++
-![](/img/default-author.jpg)
+![](_dsc5792.jpg)
