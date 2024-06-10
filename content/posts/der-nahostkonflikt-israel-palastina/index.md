@@ -11,18 +11,15 @@ footnotes = "Wikipedia, Nahostkonflikt, https://de.wikipedia.org/wiki/Nahostkonf
 
 Ein Konflikt, der sich über mehrere Jahrzehnte erstreckt und eine ereignisreiche Geschichte hat. Was ist die Ursache davon und wie geht es heute den betroffenen Personen?
 
-
 Von Christopher Shergold und Felix Hardt (M26f)
 
 ![Taylor Brandon, Unsplash: https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM, (abgerufen am 06.05.2024)](https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM)
 
 ### Ein jahrzehntelanger Konflikt flammt auf
 
-
-
 7. Oktober 2023. Hunderte Raketen werden aus dem Gazastreifen abgefeuert und schlagen in Israel ein. Hunderte von Zivilisten kommen ums Leben. Tausende werden verletzt. Dieser Angriff ist das jüngste Kapitel des jahrzehntelangen israelisch-palästinensischen Konflikts. 
-Hilla, eine 16-jährige Israelin, ist völlig fassungslos über die Situation: Der Schock, dass so etwas tatsächlich passiert ist, dass so viele Menschen, die sie kannte, entführt und ermordet wurden, und die anhaltende Angst vor dem, was als Nächstes kommt.
-Dieser Angriff war nicht das erste Mal, dass diese beiden Gebiete einen Konflikt hatten. Um die ganze Geschichte zu verstehen, müssen wir die Zeit um die 100 Jahre zurückdrehen.
+   Hilla, eine 16-jährige Israelin, ist völlig fassungslos über die Situation: Der Schock, dass so etwas tatsächlich passiert ist, dass so viele Menschen, die sie kannte, entführt und ermordet wurden, und die anhaltende Angst vor dem, was als Nächstes kommt.
+   Dieser Angriff war nicht das erste Mal, dass diese beiden Gebiete einen Konflikt hatten. Um die ganze Geschichte zu verstehen, müssen wir die Zeit um die 100 Jahre zurückdrehen.
 
 ### Ein 100-jähriger Konflikt
 
@@ -55,13 +52,16 @@ Dass alle Juden, die in Israel leben, alle Araber hassen würden, höre Hilla vo
 
 Seit den Hamas-Anschlägen vom 7. Oktober und dem fortlaufenden Nahostkonflikt zwischen Israel und Palästina hat die Judenfeindlichkeit weltweit zugenommen, unter anderem auch in der Schweiz. Seitdem haben die Medien zahlreiche Fälle von Antisemitismus in Bereichen berichtet, die eigentlich für alle sicher sein sollten, wie in Klassenzimmern und am Arbeitsplatz. Noch dazu wurden Graffiti auf den Strassen mit „Tod den Juden“ angebracht. Es ist sogar so weit gekommen, dass ein Mordversuch an einem jüdischen Teenager verübt wurde. 
 
-
 Dies war nicht das erste Mal, dass sich antisemitische Vorfälle ereignet haben. Es gab schon immer Fälle, insbesondere in der Online-Welt, da Plattformen oft anonyme Interaktionen oder Pseudonyme ermöglichen. Diese Anonymität kann dazu führen, dass man nicht für seine Worte und Handlungen zur Rechenschaft gezogen wird. Das ermutigt manche Menschen dazu, hasserfüllte oder aggressive Meinungen zu äussern, die sie in Person vielleicht nicht äussern würden. Ein weiterer Grund ist auch die Entmenschlichung. Die Interaktion mit anderen durch Bildschirme und Text kann zu einem Gefühl der Distanzierung und Entmenschlichung führen, wodurch es für Einzelpersonen einfacher wird, andere anzugreifen, ohne die realen Auswirkungen ihrer Worte zu berücksichtigen.
-
 
 Natürlich gibt es noch weitere Gründe, aber der eigentliche Grund für antisemitische Ansichten bei Benutzern ist auf Gründe wie historische Vorurteile zurückzuführen, wo Antisemitismus tiefe Wurzeln hat und Juden gern für gesellschaftliche Probleme wie wirtschaftliche Abschwünge oder politische Unruhen zum Sündenbock gemacht wurden. Hinzu kommen religiöse Überzeugungen, da einige Formen des Antisemitismus aus religiösen Haltungen stammen, die Juden als «andere» oder Feinde bestimmter Glaubensrichtungen darstellen. Zum Beispiel porträtierten mittelalterliche christliche Lehren oft Juden als verantwortlich für die Kreuzigung von Jesus Christus.
 
 ![Quelle: Schweizerischer Israelischer Gemeindebund SIG, antisemitismusbericht2023 (swissjews.ch), (abgerufen am 05.05.2024)](screenshot-2024-06-04-105845ff.png)
+
+### Antisemitismus
+
+
+Viele Menschen bringen dieses Wort nur mit Judenhass in Verbindung, aber es gibt ein grösseres Bild. Der Universitätsprofessor erläutert: «Antisemitismus heisst, dass man gegen Semiten sei. Wenn man allerdings annimmt, dass es so etwas wie «Semiten» überhaupt gibt (das ist eine alte Rassentheorie), so gehören diesen «Semiten» nicht nur Juden an, sondern auch Araber und damit Palästinenser. Palästinenser oder deren Unterstützer/innen «antisemitisch» zu nennen, ist also Unsinn (Un-Sinn). Es ist lediglich ein politischer Vorwurf ohne gedanklichen Gehalt.»
 
 ### Wie sieht es für die Zukunft aus?
 
