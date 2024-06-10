@@ -4,7 +4,7 @@ date = "2024-06-04"
 draft = false
 pinned = true
 tags = ["Deutsch", "Reportage", "Nahostkonflikt", "Israel", "Palästina"]
-image = "https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM"
+image = ""
 footnotes = "Wikipedia, Nahostkonflikt, https://de.wikipedia.org/wiki/Nahostkonflikt, (abgerufen am 20.03.2024)\n\n\nBritannica Acedemic, Palestine https://academic.eb.com/levels/collegiate/article/Palestine/108522 , (abgerufen am)\nBritannica Acedemic, Arab-Israeli wars, https://academic.eb.com/levels/collegiate/article/Arab-Israeli-wars/8143 , (abgerufen am)\nBROCKHAUS, Israel, https://brockhaus.de/ecs/enzy/article/israel-30?isSearchResult=true , (abgerufen am)\n\n\nArnold Hottinger (2008): Die Länder des Islam. NZZ Libro\n\n\nZum Antisemitismus\n\n\nElmar Plozza, Judenfeindlichkeit in der Schweiz nimmt zu, https://www.srf.ch/news/schweiz/antisemitismus-bericht-2023-judenfeindlichkeit-in-der-schweiz-nimmt-zu , (abgerufen am 29.04.2024)\n\n\nKatharina Locher, Ausschwitz-Memes, Hitlergruss im Chat und Hakenkreuze auf Schulweg, https://www.srf.ch/news/schweiz/antisemitismus-an-schulen-auschwitz-memes-hitlergruss-im-chat-und-hakenkreuze-auf-schulweg , (abgerufen am 29.04.2024 )\n\n\nSRF, Antisemitismus-Vorwürfe: Theater Neumarkt kommt nicht zur Ruhe, https://www.srf.ch/kultur/buehne/debatte-laeuft-weiter-antisemitismus-vorwuerfe-theater-neumarkt-kommt-nicht-zur-ruhe , (abgerufen am 29.04.2024)\n\n\nSIG, Antisemitismusbericht 2023, https://swissjews.ch/de/downloads/berichte/antisemitismusbericht2023 , (abgerufen am 01.05.2024)"
 +++
 # Der Nahostkonflikt Israel-Palästina
@@ -13,7 +13,7 @@ Ein Konflikt, der sich über mehrere Jahrzehnte erstreckt und eine ereignisreich
 
 Von Christopher Shergold und Felix Hardt (M26f)
 
-![Taylor Brandon, Unsplash: https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM, (abgerufen am 06.05.2024)](https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM)
+![Taylor Brandon, Unsplash: https://unsplash.com/photos/blue-and-white-flag-on-pole-Y8r0RTNrIWM, (abgerufen am 06.05.2024)](photo-1599340695274-f8a2f344174d.avif)
 
 ### Ein jahrzehntelanger Konflikt flammt auf
 
@@ -60,7 +60,6 @@ Natürlich gibt es noch weitere Gründe, aber der eigentliche Grund für antisem
 
 ### Antisemitismus
 
-
 Viele Menschen bringen dieses Wort nur mit Judenhass in Verbindung, aber es gibt ein grösseres Bild. Der Universitätsprofessor erläutert: «Antisemitismus heisst, dass man gegen Semiten sei. Wenn man allerdings annimmt, dass es so etwas wie «Semiten» überhaupt gibt (das ist eine alte Rassentheorie), so gehören diesen «Semiten» nicht nur Juden an, sondern auch Araber und damit Palästinenser. Palästinenser oder deren Unterstützer/innen «antisemitisch» zu nennen, ist also Unsinn (Un-Sinn). Es ist lediglich ein politischer Vorwurf ohne gedanklichen Gehalt.»
 
 ### Wie sieht es für die Zukunft aus?
@@ -69,4 +68,4 @@ Während unseres Gesprächs mit dem Universitätsprofessor fragten wir ihn nach 
 
 Derzeit ist die Zukunft dieses Konflikts ungewiss, doch die Auswirkungen auf Menschen wie Hilla sind unbestreitbar. Ihre Erfahrungen zeigen, dass dieser anhaltende Kampf einen realen menschlichen Preis hat. Wir hoffen, zu ihrem Wohl und zum Wohl zahlloser anderer, dass der Frieden bald kommt. Das Verlangen nach einem Ende des Leidens und der Unsicherheit ist spürbar und treibt den Wunsch nach einer Lösung an, die über Politik und Grenzen hinausgeht. Unsere Herzen leiden mit ihnen und hoffen, dass eines Tages, mitten im Chaos, Ruhe einkehren wird.
 
-![Dave Herring, Unsplash: https://unsplash.com/photos/concrete-buildings-at-daytime-64iobDcbsPs, (abgerufen am 06.05.2024)](https://unsplash.com/photos/concrete-buildings-at-daytime-64iobDcbsPs)
+![Dave Herring, Unsplash: https://unsplash.com/photos/concrete-buildings-at-daytime-64iobDcbsPs, (abgerufen am 06.05.2024)](photo-1554401922-2810fe449bac.jpg)
