@@ -2,6 +2,6 @@
 headless = true
 title = "Christopher Shergold"
 description = "Meine Reportagen "
-footerLeft = ""
+footerLeft = "Foto: Jan Röthlisberger"
 footerRight = "🏷️ [Tags](/tags/) | 🗃️ [Archive](/posts/)"
 +++
