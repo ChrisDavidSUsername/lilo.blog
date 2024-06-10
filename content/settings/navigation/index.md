@@ -1,4 +1,7 @@
 +++
 headless = true
-link = []
+
+[[link]]
+title = "About"
+url = "https://christopher-shergold.netlify.app/about/"
 +++
